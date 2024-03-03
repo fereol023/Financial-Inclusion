@@ -1,0 +1,7 @@
+lightgbm
+adaboost
+catboost
+xgboost
+
+bootstrap
+data_augmentation : SMOTE, ADASYN

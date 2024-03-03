@@ -1,0 +1,9 @@
+.ipynb_checkpoints/*
+
+env/*
+venv/*
+.venv/*
+
+fia-with-drift/*
+
+_data/*
